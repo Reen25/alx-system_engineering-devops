@@ -1,2 +1,15 @@
 #!/bin/bash
 ls-l
+-rwxr--r-- 1 root root 16 Aug 31 02:35 0-current_working_directory                                                                                     
+
+-rwxr--r-- 1 root root 15 Aug 31 03:46 1-listit                                                                                                        
+
+-rwxr--r-- 1 root root 15 Aug 31 04:06 2-bring_me_home                                                                                                 
+
+-rwxr--r-- 1 root root 17 Aug 31 04:17 3-listfiles                                                                                                     
+
+-rw-r--r-- 1 root root 13 Aug 31 02:28 README.md 
+
+
+
+
