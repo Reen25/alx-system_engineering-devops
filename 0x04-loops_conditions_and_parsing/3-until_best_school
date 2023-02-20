@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times using until loop
-INDEX=10
-until [ $INDEX -lt 1 ]
+INDEX=0
+until [ $INDEX -gt 9 ]
 do
 echo "Best School"
-let INDEX-=1
+((x++))
 done
